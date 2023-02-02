@@ -1,3 +1,9 @@
 
 git lernen
 add commit
+----------------------------
+start new git project          git init
+track fills                    git add file_name.
+tack backup                    git commit -m "---"
+upload my code                 git push
+get changes from server        git pull
